@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package test_7;
+
 public class Test_7 {
     public static void main(String[] args){
         Person ming = new Person();
